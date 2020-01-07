@@ -9,4 +9,4 @@
 4. Sample Deployment manifests file
 
 5. Sample Ingress manifests file, You may need to deploy an Ingress controller such as ingress-nginx.
-        - Different Ingress controller support different annotations.
+	- Different Ingress controller support different annotations.
