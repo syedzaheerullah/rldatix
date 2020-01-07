@@ -1,3 +1,0 @@
-docker build . -t "mywebserver"
-docker run -d -p 80:80 mywebserver 
-curl -v localhost:80/myself.json
